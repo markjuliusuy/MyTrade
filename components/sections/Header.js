@@ -13,7 +13,7 @@ import {
 
 const Header = props => {
   return (
-    <Navbar bg="light" expand="lg" className="border-bottom border-primary">
+    <Navbar expand="lg" className="border-bottom border-info">
       <Container>
         <Navbar.Brand href="#home">
           <Image
